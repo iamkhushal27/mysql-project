@@ -1,5 +1,4 @@
 # Logs
 config/config.json
 node_modules
-
-werijwoijr
+.env
