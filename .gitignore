@@ -1,5 +1,5 @@
 # Logs
-config.json
+config/config.json
 
 logs
 *.log
